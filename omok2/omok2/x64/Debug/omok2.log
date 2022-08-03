@@ -1,0 +1,103 @@
+﻿  렌주버전.c
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(79,7): error C2061: 구문 오류: 식별자 'CDRAW'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(79,7): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(80,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(103,1): error C2059: 구문 오류: '}'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(113,6): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(113,6): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(121,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(121,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(136,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(136,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(144,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(144,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(151,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(151,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(159,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(159,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(179,10): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(179,10): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(229,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(229,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(242,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(242,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(258,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(258,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(281,6): error C2061: 구문 오류: 식별자 'CDRAW'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(281,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(281,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(292,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(292,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(316,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(316,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(357,10): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(357,10): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(388,11): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(388,11): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(407,7): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(407,7): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(408,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(432,1): error C2059: 구문 오류: '}'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(446,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(446,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(455,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(455,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(464,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(464,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(476,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(476,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(476,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(498,14): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(498,14): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(539,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(539,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(539,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(556,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(556,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(556,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(563,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(563,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(563,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(573,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(573,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(573,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(614,14): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(614,14): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(654,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(654,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(654,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(672,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(672,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(672,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(700,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(700,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(700,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(714,6): error C2061: 구문 오류: 식별자 'COMOKRULE'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(714,6): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(714,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(729,7): error C2061: 구문 오류: 식별자 'COMOK'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(729,7): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(730,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(767,1): error C2059: 구문 오류: '}'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(780,7): error C2061: 구문 오류: 식별자 'CNORMAL'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(780,7): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(780,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(790,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(790,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(791,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(791,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(792,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(792,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(793,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(793,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(794,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(794,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(795,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(795,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(796,15): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(796,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(797,10): error C2061: 구문 오류: 식별자 'COMOK'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(797,10): error C2059: 구문 오류: ';'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(797,15): error C2059: 구문 오류: ':'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(798,10): error C2061: 구문 오류: 식별자 'COMOK'
+C:\Users\KB\Desktop\박재형 8월 첫째주\과제\omok2\omok2\렌주버전.c(798,10): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
